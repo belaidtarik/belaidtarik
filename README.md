@@ -16,7 +16,7 @@
 
 ## 🔧 Tech I'm comfortable with:
 
-**Languages**: Java, TypeScript, Python, SQL  
+**Languages**: Java, TypeScript, Python, SQL, PL/SQL, C/C++
 **Frameworks**: Spring Boot, Angular, Flask  
 **Tools**: Docker, Git, Jenkins, Postman  
 **Cloud**: AWS (EC2, S3), Firebase
